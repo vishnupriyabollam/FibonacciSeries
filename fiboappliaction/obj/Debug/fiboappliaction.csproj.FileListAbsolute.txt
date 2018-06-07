@@ -1,0 +1,7 @@
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\obj\Debug\fiboappliaction.csprojAssemblyReference.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\obj\Debug\fiboappliaction.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\bin\Debug\fiboappliaction.exe.config
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\bin\Debug\fiboappliaction.exe
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\bin\Debug\fiboappliaction.pdb
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\obj\Debug\fiboappliaction.exe
+C:\Users\Vishnupriya.Bollam\source\repos\fibosolution\fiboappliaction\obj\Debug\fiboappliaction.pdb
